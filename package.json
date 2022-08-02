@@ -1,0 +1,28 @@
+{
+  "name": "neon-purple",
+  "displayName": "Neon purple",
+  "description": "Simple Neon-purple color theme for VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Purple-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "SivaprasadNK",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/sivaprasadnk/NeonPurpleVSCodeTheme.git"
+
+  }
+
+}
